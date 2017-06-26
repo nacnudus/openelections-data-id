@@ -1,0 +1,749 @@
+book,sheet,county,party,candidate,votes
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Jeb Bush,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Jeb Bush,34
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Jeb Bush,14
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Jeb Bush,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Jeb Bush,39
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Jeb Bush,11
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Jeb Bush,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Jeb Bush,23
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Jeb Bush,59
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Jeb Bush,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Jeb Bush,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Jeb Bush,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Jeb Bush,80
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Jeb Bush,12
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Jeb Bush,68
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Jeb Bush,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Jeb Bush,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Jeb Bush,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Jeb Bush,18
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Jeb Bush,21
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Jeb Bush,10
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Jeb Bush,10
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Jeb Bush,11
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Jeb Bush,38
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Jeb Bush,12
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Jeb Bush,10
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Jeb Bush,68
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Jeb Bush,15
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Jeb Bush,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Jeb Bush,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Jeb Bush,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Jeb Bush,22
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Jeb Bush,16
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Jeb Bush,19
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Jeb Bush,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Jeb Bush,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Jeb Bush,13
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Jeb Bush,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Jeb Bush,11
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Jeb Bush,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Jeb Bush,36
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Jeb Bush,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Jeb Bush,15
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Jeb Bush,172
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Ben Carson,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Ben Carson,160
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Ben Carson,42
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Ben Carson,14
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Ben Carson,138
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Ben Carson,23
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Ben Carson,31
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Ben Carson,107
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Ben Carson,231
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Ben Carson,39
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Ben Carson,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Ben Carson,11
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Ben Carson,410
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Ben Carson,35
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Ben Carson,144
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Ben Carson,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Ben Carson,29
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Ben Carson,22
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Ben Carson,40
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Ben Carson,66
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Ben Carson,46
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Ben Carson,42
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Ben Carson,36
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Ben Carson,134
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Ben Carson,84
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Ben Carson,36
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Ben Carson,336
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Ben Carson,90
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Ben Carson,51
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Ben Carson,18
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Ben Carson,15
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Ben Carson,131
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Ben Carson,43
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Ben Carson,93
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Ben Carson,14
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Ben Carson,15
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Ben Carson,55
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Ben Carson,20
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Ben Carson,32
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Ben Carson,20
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Ben Carson,167
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Ben Carson,25
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Ben Carson,68
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Ben Carson,724
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Chris Christie,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Chris Christie,9
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Chris Christie,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Chris Christie,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Chris Christie,14
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Chris Christie,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Chris Christie,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Chris Christie,14
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Chris Christie,29
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Chris Christie,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Chris Christie,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Chris Christie,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Chris Christie,32
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Chris Christie,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Chris Christie,12
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Chris Christie,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Chris Christie,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Chris Christie,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Chris Christie,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Chris Christie,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Chris Christie,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Chris Christie,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Chris Christie,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Chris Christie,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Chris Christie,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Chris Christie,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Chris Christie,23
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Chris Christie,9
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Chris Christie,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Chris Christie,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Chris Christie,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Chris Christie,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Chris Christie,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Chris Christie,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Chris Christie,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Chris Christie,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Chris Christie,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Chris Christie,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Chris Christie,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Chris Christie,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Chris Christie,18
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Chris Christie,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Chris Christie,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Chris Christie,68
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Ted Cruz,292
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Ted Cruz,4404
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Ted Cruz,643
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Ted Cruz,671
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Ted Cruz,3471
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Ted Cruz,370
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Ted Cruz,531
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Ted Cruz,3132
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Ted Cruz,7794
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Ted Cruz,901
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Ted Cruz,275
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Ted Cruz,75
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Ted Cruz,11164
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Ted Cruz,602
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Ted Cruz,2095
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Ted Cruz,62
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Ted Cruz,477
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Ted Cruz,285
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Ted Cruz,892
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Ted Cruz,1173
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Ted Cruz,1434
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Ted Cruz,1391
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Ted Cruz,863
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Ted Cruz,1495
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Ted Cruz,3080
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Ted Cruz,1164
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Ted Cruz,11924
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Ted Cruz,2102
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Ted Cruz,597
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Ted Cruz,263
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Ted Cruz,279
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Ted Cruz,4079
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Ted Cruz,1163
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Ted Cruz,1583
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Ted Cruz,473
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Ted Cruz,717
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Ted Cruz,1364
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Ted Cruz,421
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Ted Cruz,591
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Ted Cruz,465
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Ted Cruz,4717
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Ted Cruz,476
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Ted Cruz,783
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Ted Cruz,20156
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Carly Fiorina,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Carly Fiorina,10
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Carly Fiorina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Carly Fiorina,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Carly Fiorina,18
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Carly Fiorina,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Carly Fiorina,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Carly Fiorina,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Carly Fiorina,11
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Carly Fiorina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Carly Fiorina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Carly Fiorina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Carly Fiorina,25
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Carly Fiorina,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Carly Fiorina,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Carly Fiorina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Carly Fiorina,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Carly Fiorina,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Carly Fiorina,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Carly Fiorina,9
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Carly Fiorina,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Carly Fiorina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Carly Fiorina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Carly Fiorina,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Carly Fiorina,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Carly Fiorina,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Carly Fiorina,13
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Carly Fiorina,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Carly Fiorina,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Carly Fiorina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Carly Fiorina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Carly Fiorina,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Carly Fiorina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Carly Fiorina,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Carly Fiorina,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Carly Fiorina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Carly Fiorina,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Carly Fiorina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Carly Fiorina,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Carly Fiorina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Carly Fiorina,13
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Carly Fiorina,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Carly Fiorina,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Carly Fiorina,53
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Lindsey Graham,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Lindsey Graham,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Lindsey Graham,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Lindsey Graham,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Lindsey Graham,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Lindsey Graham,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Lindsey Graham,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Lindsey Graham,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Lindsey Graham,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Lindsey Graham,9
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Lindsey Graham,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Lindsey Graham,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Lindsey Graham,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Lindsey Graham,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Lindsey Graham,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Lindsey Graham,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Lindsey Graham,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Lindsey Graham,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Lindsey Graham,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Lindsey Graham,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Lindsey Graham,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Lindsey Graham,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Lindsey Graham,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Lindsey Graham,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Lindsey Graham,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Lindsey Graham,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Lindsey Graham,14
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Mike Huckabee,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Mike Huckabee,12
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Mike Huckabee,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Mike Huckabee,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Mike Huckabee,15
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Mike Huckabee,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Mike Huckabee,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Mike Huckabee,10
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Mike Huckabee,14
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Mike Huckabee,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Mike Huckabee,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Mike Huckabee,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Mike Huckabee,29
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Mike Huckabee,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Mike Huckabee,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Mike Huckabee,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Mike Huckabee,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Mike Huckabee,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Mike Huckabee,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Mike Huckabee,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Mike Huckabee,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Mike Huckabee,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Mike Huckabee,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Mike Huckabee,21
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Mike Huckabee,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Mike Huckabee,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Mike Huckabee,24
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Mike Huckabee,10
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Mike Huckabee,9
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Mike Huckabee,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Mike Huckabee,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Mike Huckabee,10
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Mike Huckabee,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Mike Huckabee,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Mike Huckabee,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Mike Huckabee,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Mike Huckabee,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Mike Huckabee,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Mike Huckabee,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Mike Huckabee,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Mike Huckabee,17
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Mike Huckabee,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Mike Huckabee,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Mike Huckabee,70
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,John R. Kasich,64
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,John R. Kasich,494
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,John R. Kasich,92
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,John R. Kasich,80
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,John R. Kasich,304
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,John R. Kasich,358
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,John R. Kasich,142
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,John R. Kasich,587
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,John R. Kasich,1070
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,John R. Kasich,107
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,John R. Kasich,30
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,John R. Kasich,38
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,John R. Kasich,1376
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,John R. Kasich,87
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,John R. Kasich,245
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,John R. Kasich,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,John R. Kasich,89
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,John R. Kasich,91
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,John R. Kasich,209
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,John R. Kasich,127
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,John R. Kasich,155
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,John R. Kasich,159
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,John R. Kasich,133
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,John R. Kasich,266
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,John R. Kasich,189
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,John R. Kasich,185
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,John R. Kasich,1528
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,John R. Kasich,324
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,John R. Kasich,198
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,John R. Kasich,48
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,John R. Kasich,51
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,John R. Kasich,352
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,John R. Kasich,137
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,John R. Kasich,323
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,John R. Kasich,37
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,John R. Kasich,62
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,John R. Kasich,217
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,John R. Kasich,57
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,John R. Kasich,86
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,John R. Kasich,101
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,John R. Kasich,661
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,John R. Kasich,197
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,John R. Kasich,145
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,John R. Kasich,5306
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Peter Messina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Peter Messina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Peter Messina,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Peter Messina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Peter Messina,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Peter Messina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Peter Messina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Peter Messina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Peter Messina,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Peter Messina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Peter Messina,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Peter Messina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Peter Messina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Peter Messina,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Peter Messina,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Peter Messina,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Peter Messina,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Rand Paul,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Rand Paul,21
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Rand Paul,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Rand Paul,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Rand Paul,22
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Rand Paul,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Rand Paul,9
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Rand Paul,40
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Rand Paul,59
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Rand Paul,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Rand Paul,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Rand Paul,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Rand Paul,83
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Rand Paul,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Rand Paul,26
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Rand Paul,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Rand Paul,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Rand Paul,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Rand Paul,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Rand Paul,16
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Rand Paul,12
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Rand Paul,14
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Rand Paul,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Rand Paul,30
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Rand Paul,18
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Rand Paul,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Rand Paul,88
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Rand Paul,13
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Rand Paul,12
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Rand Paul,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Rand Paul,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Rand Paul,23
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Rand Paul,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Rand Paul,24
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Rand Paul,9
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Rand Paul,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Rand Paul,12
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Rand Paul,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Rand Paul,11
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Rand Paul,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Rand Paul,24
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Rand Paul,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Rand Paul,10
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Rand Paul,170
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Marco Rubio,97
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Marco Rubio,2017
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Marco Rubio,330
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Marco Rubio,87
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Marco Rubio,1761
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Marco Rubio,238
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Marco Rubio,161
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Marco Rubio,509
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Marco Rubio,4901
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Marco Rubio,131
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Marco Rubio,117
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Marco Rubio,47
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Marco Rubio,2987
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Marco Rubio,299
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Marco Rubio,819
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Marco Rubio,56
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Marco Rubio,149
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Marco Rubio,174
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Marco Rubio,378
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Marco Rubio,495
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Marco Rubio,595
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Marco Rubio,353
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Marco Rubio,210
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Marco Rubio,361
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Marco Rubio,1323
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Marco Rubio,231
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Marco Rubio,1880
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Marco Rubio,430
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Marco Rubio,335
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Marco Rubio,75
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Marco Rubio,77
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Marco Rubio,1925
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Marco Rubio,376
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Marco Rubio,461
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Marco Rubio,110
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Marco Rubio,149
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Marco Rubio,396
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Marco Rubio,183
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Marco Rubio,146
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Marco Rubio,196
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Marco Rubio,1202
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Marco Rubio,188
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Marco Rubio,261
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Marco Rubio,8074
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Rick Santorum,12
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Rick Santorum,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Rick Santorum,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Rick Santorum,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Rick Santorum,13
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Rick Santorum,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Rick Santorum,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Rick Santorum,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Rick Santorum,16
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Rick Santorum,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Rick Santorum,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Rick Santorum,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Rick Santorum,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Rick Santorum,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Rick Santorum,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Rick Santorum,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Rick Santorum,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Rick Santorum,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Rick Santorum,10
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Rick Santorum,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Rick Santorum,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Rick Santorum,6
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Rick Santorum,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Rick Santorum,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Rick Santorum,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Rick Santorum,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Rick Santorum,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Rick Santorum,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Rick Santorum,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Rick Santorum,12
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Rick Santorum,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Rick Santorum,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Rick Santorum,45
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Adams,REP,Donald J. Trump,354
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bannock,REP,Donald J. Trump,1711
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bear Lake,REP,Donald J. Trump,363
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Benewah,REP,Donald J. Trump,427
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bingham,REP,Donald J. Trump,1191
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Blaine,REP,Donald J. Trump,543
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boise,REP,Donald J. Trump,681
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonner,REP,Donald J. Trump,2410
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Bonneville,REP,Donald J. Trump,2702
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Boundary,REP,Donald J. Trump,788
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Butte,REP,Donald J. Trump,138
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Camas,REP,Donald J. Trump,130
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Canyon,REP,Donald J. Trump,7341
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Caribou,REP,Donald J. Trump,304
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Cassia,REP,Donald J. Trump,1025
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clark,REP,Donald J. Trump,44
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Clearwater,REP,Donald J. Trump,629
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Custer,REP,Donald J. Trump,415
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Elmore,REP,Donald J. Trump,1252
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Franklin,REP,Donald J. Trump,399
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Fremont,REP,Donald J. Trump,498
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gem,REP,Donald J. Trump,1230
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Gooding,REP,Donald J. Trump,679
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Idaho,REP,Donald J. Trump,1667
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jefferson,REP,Donald J. Trump,853
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Jerome,REP,Donald J. Trump,754
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Kootenai,REP,Donald J. Trump,6516
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Latah,REP,Donald J. Trump,894
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lemhi,REP,Donald J. Trump,757
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lewis,REP,Donald J. Trump,286
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Lincoln,REP,Donald J. Trump,248
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Madison,REP,Donald J. Trump,539
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Minidoka,REP,Donald J. Trump,755
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Nez Perce,REP,Donald J. Trump,1419
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Oneida,REP,Donald J. Trump,141
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Owyhee,REP,Donald J. Trump,708
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Payette,REP,Donald J. Trump,1289
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Power,REP,Donald J. Trump,184
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Shoshone,REP,Donald J. Trump,632
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Teton,REP,Donald J. Trump,238
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Twin Falls,REP,Donald J. Trump,2757
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Valley,REP,Donald J. Trump,575
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Washington,REP,Donald J. Trump,756
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,President,Ada,REP,Donald J. Trump,15191
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Adams,CON,Scott Copeland,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bannock,CON,Scott Copeland,12
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bear Lake,CON,Scott Copeland,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Benewah,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bingham,CON,Scott Copeland,10
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Blaine,CON,Scott Copeland,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Boise,CON,Scott Copeland,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bonner,CON,Scott Copeland,17
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bonneville,CON,Scott Copeland,26
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Boundary,CON,Scott Copeland,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Butte,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Camas,CON,Scott Copeland,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Canyon,CON,Scott Copeland,42
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Caribou,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Cassia,CON,Scott Copeland,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Clark,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Clearwater,CON,Scott Copeland,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Custer,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Elmore,CON,Scott Copeland,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Franklin,CON,Scott Copeland,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Fremont,CON,Scott Copeland,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Gem,CON,Scott Copeland,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Gooding,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Idaho,CON,Scott Copeland,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Jefferson,CON,Scott Copeland,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Jerome,CON,Scott Copeland,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Kootenai,CON,Scott Copeland,23
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Latah,CON,Scott Copeland,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Lemhi,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Lewis,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Lincoln,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Madison,CON,Scott Copeland,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Minidoka,CON,Scott Copeland,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Nez Perce,CON,Scott Copeland,9
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Oneida,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Owyhee,CON,Scott Copeland,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Payette,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Power,CON,Scott Copeland,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Shoshone,CON,Scott Copeland,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Teton,CON,Scott Copeland,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Twin Falls,CON,Scott Copeland,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Valley,CON,Scott Copeland,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Washington,CON,Scott Copeland,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Ada,CON,Scott Copeland,48
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Adams,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bannock,CON,J.R. Myers,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bear Lake,CON,J.R. Myers,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Benewah,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bingham,CON,J.R. Myers,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Blaine,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Boise,CON,J.R. Myers,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bonner,CON,J.R. Myers,9
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bonneville,CON,J.R. Myers,14
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Boundary,CON,J.R. Myers,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Butte,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Camas,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Canyon,CON,J.R. Myers,26
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Caribou,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Cassia,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Clark,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Clearwater,CON,J.R. Myers,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Custer,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Elmore,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Franklin,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Fremont,CON,J.R. Myers,4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Gem,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Gooding,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Idaho,CON,J.R. Myers,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Jefferson,CON,J.R. Myers,2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Jerome,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Kootenai,CON,J.R. Myers,7
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Latah,CON,J.R. Myers,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Lemhi,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Lewis,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Lincoln,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Madison,CON,J.R. Myers,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Minidoka,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Nez Perce,CON,J.R. Myers,5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Oneida,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Owyhee,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Payette,CON,J.R. Myers,3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Power,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Shoshone,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Teton,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Twin Falls,CON,J.R. Myers,8
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Valley,CON,J.R. Myers,1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Washington,CON,J.R. Myers,0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Ada,CON,J.R. Myers,23
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Adams,CON,"Patrick Anthony 
+Ockander",1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bannock,CON,"Patrick Anthony 
+Ockander",2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bear Lake,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Benewah,CON,"Patrick Anthony 
+Ockander",1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bingham,CON,"Patrick Anthony 
+Ockander",4
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Blaine,CON,"Patrick Anthony 
+Ockander",1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Boise,CON,"Patrick Anthony 
+Ockander",2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bonner,CON,"Patrick Anthony 
+Ockander",3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Bonneville,CON,"Patrick Anthony 
+Ockander",9
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Boundary,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Butte,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Camas,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Canyon,CON,"Patrick Anthony 
+Ockander",17
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Caribou,CON,"Patrick Anthony 
+Ockander",1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Cassia,CON,"Patrick Anthony 
+Ockander",3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Clark,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Clearwater,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Custer,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Elmore,CON,"Patrick Anthony 
+Ockander",1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Franklin,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Fremont,CON,"Patrick Anthony 
+Ockander",3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Gem,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Gooding,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Idaho,CON,"Patrick Anthony 
+Ockander",2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Jefferson,CON,"Patrick Anthony 
+Ockander",2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Jerome,CON,"Patrick Anthony 
+Ockander",2
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Kootenai,CON,"Patrick Anthony 
+Ockander",12
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Latah,CON,"Patrick Anthony 
+Ockander",1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Lemhi,CON,"Patrick Anthony 
+Ockander",1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Lewis,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Lincoln,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Madison,CON,"Patrick Anthony 
+Ockander",1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Minidoka,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Nez Perce,CON,"Patrick Anthony 
+Ockander",5
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Oneida,CON,"Patrick Anthony 
+Ockander",1
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Owyhee,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Payette,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Power,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Shoshone,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Teton,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Twin Falls,CON,"Patrick Anthony 
+Ockander",3
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Valley,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Washington,CON,"Patrick Anthony 
+Ockander",0
+/home/nacnudus/R/openelections-data-id/xlsx/2016/16Pres_pri_stwd_cnty.xlsx,Voting Stats,Ada,CON,"Patrick Anthony 
+Ockander",18
