@@ -135,7 +135,7 @@ table_votes <- function(corner, cells, bold, top_border) {
     select(row, col, office, district)
   statistics_col <-
     office %>%
-    filter(str_detect(office, "STATISTIC")) %>%
+    filter(str_detect(tolower(office), "statistic")) %>%
     pull(col) %>%
     min(Inf)
   votes <-
